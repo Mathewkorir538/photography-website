@@ -1,0 +1,64 @@
+.navigation{
+    width: 98vw;
+    border:1px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    height: 85px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: darkgreen;
+    zoom: 100%;
+}
+.header{
+    text-decoration: firebrick;
+    color: brown;
+}
+.header{
+    margin-top: 80px;
+    font-style: italic
+}
+.Gallery{
+    border: 1px solid lawngreen;
+    width: 220px;
+    padding: 50px;
+    height: 250px;
+    background-color: lightgreen;
+    border-radius: 7px;
+    box-sizing: content-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.img{
+    width: 200;
+    height: 280px;
+    background-color: chartreuse;
+    scroll-margin-top: 10px;
+    -ms-text-kashida-space: inherit;
+    font-weight: 300;
+    font-style: italic;
+    overflow: hidden;
+    zoom: 200%;
+}
+.gallery{
+    display:flex;
+    gap: 1px;
+    flex-wrap: wrap;
+    background-color: cadetblue;
+    stroke: width 100px;
+    font-family: monospace;
+    overflow: hidden;
+}
+.footer{
+    border: 1px saddlebrown;background-color: blueviolet;
+    background-color: aqua;
+    margin-top: 20px;
+    height: 120px;
+    border-radius: 7px;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    justify-items: first last baseline
+} 
+ 
