@@ -53,7 +53,6 @@
     padding: 20px;
     margin: 20px auto;
     border-radius: 10px;
-    /* max-width: 800px; */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
   }
@@ -70,22 +69,6 @@
     line-height: 1.6;
     margin-bottom: 15px;
   }
-
-
-
-/* 
-.img{
-    width: 200;
-    height: 280px;
-    background-color: chartreuse;
-    scroll-margin-top: 10px;
-    -ms-text-kashida-space: inherit;
-    font-weight: 300;
-    font-style: italic;
-    overflow: hidden;
-    zoom: 200%;
-} */
-
 
 /* Gallery section styling */
 .gallery {
@@ -166,8 +149,6 @@
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
   }
 
-  
-
   /* Testimonials section styling */
 .testimonials {
     background-color: #f9f9f9; 
@@ -233,9 +214,7 @@
     font-size: 1rem;
     color: #333;
   }
-/* Footer styling */
-/* background-color: #26264c; 
-color: #ff4e45;  */
+
 .footer {
     background-color: #26264c; 
     color: #fff; 
