@@ -75,8 +75,8 @@
 }
 
 .bio-image img {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%; 
   object-fit: cover;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
